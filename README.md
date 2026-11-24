@@ -1,4 +1,4 @@
-maki edit notes;
+## maki edit notes;
     does not change any internals. just a simple graphical edit over the "type1" layout, where:
         - L1/R1 YELLOW -> BLUE
         - L2/R2 WHITE -> GREEN
