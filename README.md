@@ -1,4 +1,14 @@
-﻿# gamepadviewer custom CSS for pop'n music
+maki edit notes;
+    does not change any internals. just a simple graphical edit over the "type1" layout, where:
+        - L1/R1 YELLOW -> BLUE
+        - L2/R2 WHITE -> GREEN
+        - cross, triangle BLUE -> YELLOW
+        - circle GREEN -> WHITE
+        - d-pad down/up BLUE -> YELLOW
+        - d-pad left GREEN -> WHITE
+    usage is otherwise the same. continued is the original readme.
+
+ # gamepadviewer custom CSS for pop'n music
 
 ## 概要
 PCに接続されたゲームパッドのリアルタイム表示を行うサイト(https://gamepadviewer.com/)向けのスキン置き場。  
