@@ -6,7 +6,8 @@
         - circle GREEN -> WHITE
         - d-pad down/up BLUE -> YELLOW
         - d-pad left GREEN -> WHITE
-    use " https://timespiral.sproutling.site/githubStorage/gamepadViewerCSSalt-main/myps3.css " instead of given links. usage is otherwise the same. continued is the original readme.
+    use " https://timespiral.sproutling.site/githubStorage/gamepadViewerCSSalt-main/myps3.css " instead of given links.
+    usage is otherwise the same. continued is the original readme.
 
  # gamepadviewer custom CSS for pop'n music
 
