@@ -1,13 +1,16 @@
 ## maki edit notes;
-    does not change any internals. just a simple graphical edit over the "type1" layout, where:
-        - L1/R1 YELLOW -> BLUE
-        - L2/R2 WHITE -> GREEN
-        - cross, triangle BLUE -> YELLOW
-        - circle GREEN -> WHITE
-        - d-pad down/up BLUE -> YELLOW
-        - d-pad left GREEN -> WHITE
-    use " https://timespiral.sproutling.site/githubStorage/gamepadViewerCSSalt-main/myps3.css " instead of given links.
-    usage is otherwise the same. continued is the original readme.
+does not change any internals. just a simple graphical edit over the "type1" layout, where:
+- L1/R1 YELLOW -> BLUE
+- L2/R2 WHITE -> GREEN
+- cross, triangle BLUE -> YELLOW
+- circle GREEN -> WHITE
+- d-pad down/up BLUE -> YELLOW
+- d-pad left GREEN -> WHITE
+
+use the below link instead of the given ones. i know the graphics are quite crude right now, and i apologize.
+`https://timespiral.sproutling.site/githubStorage/gamepadViewerCSSalt-main/myps3.css`
+
+usage is otherwise the same. continued is the original readme.
 
  # gamepadviewer custom CSS for pop'n music
 
